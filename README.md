@@ -1,7 +1,8 @@
-# Welcome to Diego-Novoa's profile
-## <div id="header" align="left">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY21qanBvbHd4czJjMXI5bGFxZHd0dmlkOHVzM2hidmZkZHUxNTV3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/> 
+# Hi 👋, I'm diego novoa
+## <div id="header" align="left side">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHpjM2c3a3AyMHF3eGNqdDVvcnBrNDBtZnM1c2xjcHh6bDh1a2c0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.gif" width="300"/> 
 </div>
+
 
 
 
