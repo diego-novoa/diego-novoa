@@ -27,6 +27,19 @@
 - Design patterns
 - Software architecture
 
+### 🛠 &nbsp;TECHNOLOGIES
+
+- Programming languages:
+Javascript and Java
+- Data Transfer Languages:
+XML, JSON and YAML
+- Publishing Languages:
+HTML and CSS
+- Modeling Languages:
+UML and PlantUML
+- Tools:
+Visual Code and Git
+
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
