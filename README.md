@@ -55,6 +55,8 @@ Visual Code and Git
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diego-novoa)](https://github.com/diego-novoa/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diego-novoa)](https://github.com/diego-novoa/github-readme-stats)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diego-novoa&hide_progress=true)
 
 
