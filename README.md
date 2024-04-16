@@ -6,6 +6,28 @@
   ### 👨🏻‍💻 &nbsp;About Me
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 
+### 👨🏻‍💻 &nbsp;Master in Programming and Software Design
+
+- Software Fundamentals
+- Imperative programming
+- Structured programming
+- Process-oriented programming
+- Object-based programming
+- Object-oriented programming
+- Modular programming
+- Programming with exceptions
+- Parameterized programming
+- Graphical User Interface Programming
+- Programming with Communications
+- Programming with Data Persistence
+- Metaprogramming
+- Software design
+- Modular design
+- Object-oriented design
+- Design patterns
+- Software architecture
+
+
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
