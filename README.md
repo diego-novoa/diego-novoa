@@ -57,6 +57,5 @@ Visual Code and Git
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diego-novoa&hide_progress=true)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/diego-novoa/github-readme-stats)
 
 
