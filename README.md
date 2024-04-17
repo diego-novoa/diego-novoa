@@ -57,19 +57,7 @@ Visual Code and Git
 - Design patterns
 - Software architecture
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diego-novoa&theme=default)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diego-novoa)](https://github.com/diego-novoa/github-readme-stats)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diego-novoa&theme=default)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=diego-novoa&theme=default)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=diego-novoa&theme=default)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=diego-novoa&theme=default&utcOffset=8)
-
-
-
-
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diego-novoa&layout=compact)](https://github.com/diego-novoa/github-readme-stats)
 
