@@ -8,7 +8,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-_@diegonovoa1981-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/diegonovoa1981)](https://twitter.com/diegonovoa1981)
 [![Gmail Badge](https://img.shields.io/badge/-diegonovoa1981-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:diegonovoa1981@gmail.com)](mailto:diegonovoa1981@gmail.com)
 
-### 🛠 &nbsp;technologies
+### &nbsp;technologies
 
 - Programming languages:
 Javascript and Java
@@ -24,7 +24,7 @@ Visual Code and Git
 
 <br/>
 
-### 🛠 &nbsp;Tech Stack
+### &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
