@@ -33,6 +33,27 @@ Visual Code and Git
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+### &nbsp; Studies
+
+- Software Fundamentals
+- Imperative programming
+- Structured programming
+- Process-oriented programming
+- Object-based programming
+- Object-oriented programming
+- Modular programming
+- Programming with exceptions
+- Parameterized programming
+- Graphical User Interface Programming
+- Programming with Communications
+- Programming with Data Persistence
+- Metaprogramming
+- Software design
+- Modular design
+- Object-oriented design
+- Design patterns
+- Software architecture
+
 
 
 
