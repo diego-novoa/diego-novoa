@@ -34,6 +34,7 @@ Visual Code and Git
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ### &nbsp; Studies
+
 [![Twitter Badge](https://img.shields.io/badge/-_@EscuelaIT-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/EscuelaIT)](https://twitter.com/EscuelaIT)
 [![Linkedin Badge](https://img.shields.io/badge/-EscuelaIT-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/escuelait/)](https://www.linkedin.com/company/escuelait/)
 
@@ -55,6 +56,17 @@ Visual Code and Git
 - Object-oriented design
 - Design patterns
 - Software architecture
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diego-novoa&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diego-novoa&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=diego-novoa&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=diego-novoa&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=diego-novoa&theme=default&utcOffset=8)
+
 
 
 
