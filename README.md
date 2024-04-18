@@ -38,7 +38,7 @@ Visual Code and Git
 [![Twitter Badge](https://img.shields.io/badge/-_@EscuelaIT-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/EscuelaIT)](https://twitter.com/EscuelaIT)
 [![Linkedin Badge](https://img.shields.io/badge/-EscuelaIT-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/escuelait/)](https://www.linkedin.com/company/escuelait/)
 
-- Software Fundamentals
+- Software Fundamentals                       
 - Imperative programming
 - Structured programming
 - Process-oriented programming
@@ -56,6 +56,8 @@ Visual Code and Git
 - Object-oriented design
 - Design patterns
 - Software architecture
+
+### &nbsp; Statistics
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diego-novoa)](https://github.com/diego-novoa/github-readme-stats)
 
