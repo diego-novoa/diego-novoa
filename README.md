@@ -4,9 +4,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Master+Program+and+Software+Design+" alt="Typing SVG" /></a>
 </p>
 A
-<a align="center">
+<p align="center">
   <img align="center" top="500" height="300" width="400" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXdldTd1cXdxcXByZzJsbXRnYzV0eDc3dXFiYjV2b3FmY2FkaWxpNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
-</a>
+</p>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-diego-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-novoa-317787202/)](https://www.linkedin.com/feed/)
