@@ -4,8 +4,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Master+Program+and+Software+Design+" alt="Typing SVG" /></a>
 </p>
 A
-<a target="_blank" align="center">
-  <img align="center" top="400" height="200" width="300" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXdldTd1cXdxcXByZzJsbXRnYzV0eDc3dXFiYjV2b3FmY2FkaWxpNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<a align="center">
+  <img align="center" top="500" height="300" width="400" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXdldTd1cXdxcXByZzJsbXRnYzV0eDc3dXFiYjV2b3FmY2FkaWxpNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 </a>
 
 
