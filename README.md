@@ -28,40 +28,6 @@ A
 [![Linkedin Badge](https://img.shields.io/badge/-EscuelaIT-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/escuelait/)](https://www.linkedin.com/company/escuelait/)
 
 
-### &nbsp;technologies
-
-- Programming languages:
-Javascript and Java
-- Data Transfer Languages:
-XML, JSON and YAML
-- Publishing Languages:
-HTML and CSS
-- Modeling Languages:
-UML and PlantUML
-- Tools:
-Visual Code and Git
-
-
-
-
-- Software Fundamentals                       
-- Imperative programming
-- Structured programming
-- Process-oriented programming
-- Object-based programming
-- Object-oriented programming
-- Modular programming
-- Programming with exceptions
-- Parameterized programming
-- Graphical User Interface Programming
-- Programming with Communications
-- Programming with Data Persistence
-- Metaprogramming
-- Software design
-- Modular design
-- Object-oriented design
-- Design patterns
-- Software architecture
 
 ### &nbsp; Statistics
 
