@@ -22,6 +22,11 @@ A
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+### &nbsp; Studies
+
+[![Twitter Badge](https://img.shields.io/badge/-_@EscuelaIT-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/EscuelaIT)](https://twitter.com/EscuelaIT)
+[![Linkedin Badge](https://img.shields.io/badge/-EscuelaIT-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/escuelait/)](https://www.linkedin.com/company/escuelait/)
+
 
 ### &nbsp;technologies
 
@@ -37,13 +42,7 @@ UML and PlantUML
 Visual Code and Git
 
 
-<br/>
 
-
-### &nbsp; Studies
-
-[![Twitter Badge](https://img.shields.io/badge/-_@EscuelaIT-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/EscuelaIT)](https://twitter.com/EscuelaIT)
-[![Linkedin Badge](https://img.shields.io/badge/-EscuelaIT-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/escuelait/)](https://www.linkedin.com/company/escuelait/)
 
 - Software Fundamentals                       
 - Imperative programming
