@@ -5,7 +5,7 @@
 </p>
 A
 <a target="_blank" align="center">
-  <img align="center" top="600" height="400" width="500" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXdldTd1cXdxcXByZzJsbXRnYzV0eDc3dXFiYjV2b3FmY2FkaWxpNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+  <img align="center" top="400" height="200" width="300" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXdldTd1cXdxcXByZzJsbXRnYzV0eDc3dXFiYjV2b3FmY2FkaWxpNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 </a>
 
 
