@@ -3,18 +3,17 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Master+Program+and+Software+Design+" alt="Typing SVG" /></a>
 </p>
+
+[![Linkedin Badge](https://img.shields.io/badge/-diego-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-novoa-317787202/)](https://www.linkedin.com/feed/)
+[![Twitter Badge](https://img.shields.io/badge/-_@diegonovoa1981-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/diegonovoa1981)](https://twitter.com/diegonovoa1981)
+[![Gmail Badge](https://img.shields.io/badge/-diegonovoa1981-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:diegonovoa1981@gmail.com)](mailto:diegonovoa1981@gmail.com)
+
 A
 <p align="center">
   <img align="center" top="600" height="200" width="500" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXdldTd1cXdxcXByZzJsbXRnYzV0eDc3dXFiYjV2b3FmY2FkaWxpNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 </p>
 
-<a align="right">
   
-[![Linkedin Badge](https://img.shields.io/badge/-diego-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-novoa-317787202/)](https://www.linkedin.com/feed/)
-[![Twitter Badge](https://img.shields.io/badge/-_@diegonovoa1981-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/diegonovoa1981)](https://twitter.com/diegonovoa1981)
-[![Gmail Badge](https://img.shields.io/badge/-diegonovoa1981-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:diegonovoa1981@gmail.com)](mailto:diegonovoa1981@gmail.com)
-
-</a>
 
 ### &nbsp;technologies
 
